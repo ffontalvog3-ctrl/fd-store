@@ -1,7 +1,7 @@
 {
   "name": "Tienda FD",
   "short_name": "Tienda FD",
-  "start_url": "/",
+  "start_url": "/fd-store/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#ffffff",
