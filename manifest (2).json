@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "FD store",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "FD store",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "sistema de gestion de inventario"
+}
